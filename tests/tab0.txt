@@ -1,0 +1,14 @@
+Cviceni:Bodu:Projekt:Slov:Osoba
+Prvni programy:0::50:Marcel
+Cyklus, typy:0:::
+Retezce:0::10:S
+Funkce 1:0:::Mao
+Struktury:2::20:
+Ukazatele:2::1:Mu
+Funkce:0:Obhajoba 1:12:Slavo
+Malloc, dbg:2::21:Maslo
+:0:::Meky
+:0::5:
+Iterace, rekurze:2:::
+:0:Obhajoba 2:50:Sivo
+Dynamicke struktury:2::10:Savo

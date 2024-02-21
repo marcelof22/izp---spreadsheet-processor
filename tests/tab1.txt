@@ -1,0 +1,16 @@
+CVICENI:Bodu:Projekt
+Prvni ProGrAmy:0.54216:
+Cyklus, typy:-2254000.:
+Retezce:-.10:
+FunKCe 1:-0.999.:
+Struktury:20.:
+Ukazatele:21.264561:
+Funkce:-21.5001:Obhajoba 1
+Malloc, dbg:-2.0:
+:-0.:
+:0.1.:1
+Iterace, rekurze:2:
+:0:Obhajoba 2
+Dynamicke struktury:2:
+::
+aAAa:a:a
